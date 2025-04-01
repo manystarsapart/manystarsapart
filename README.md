@@ -41,41 +41,41 @@
       <tr>
         <td style="text-align: center;"><b>Languages</b></td>
         <td>
-          <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"></a>
-          <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"></a>
-          <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
-          <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
-          <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"></a>
-          <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></a>
+          <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"></a>
+          <a href="https://javascript.info/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"></a>
+          <a href="https://html.com/html5/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
+          <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
+          <a href="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"></a>
+          <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></a>
         </td>
       </tr>
       <!-- Frameworks & Libraries -->
       <tr>
         <td style="text-align: center;"><b>Frameworks & Libraries</b></td>
         <td>
-          <a href="#"><img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="vite"></a>
+          <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js"></a>
+          <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></a>
+          <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"></a>
+          <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="vite"></a>
         </td>
       </tr>
       <!-- Tools -->
       <tr>
         <td style="text-align: center;"><b>Tools</b></td>
         <td>
-          <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="git"></a>
-          <a href="#"><img src="https://img.shields.io/badge/DuckDuckGo-FF5722?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="duckduckgo"></a>
-          <a href="#"><img src="https://img.shields.io/badge/GNOME%20Terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=fff" alt="gnome terminal"></a>
-          <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff" alt="npm"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=fff" alt="homebrew"></a>
+          <a href="https://git-scm.com/ "><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="git"></a>
+          <a href="https://duckduckgo.com/"><img src="https://img.shields.io/badge/DuckDuckGo-FF5722?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="duckduckgo"></a>
+          <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME%20Terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=fff" alt="gnome terminal"></a>
+          <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff" alt="npm"></a>
+          <a href="https://brew.sh/"><img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=fff" alt="homebrew"></a>
         </td>
       </tr>
       <!-- OS -->
       <tr>
         <td style="text-align: center;"><b>OS</b></td>
         <td>
-          <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></a>
-          <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="windows"></a>
+          <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></a>
+          <a href="https://www.microsoft.com/en-sg/windows/"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="windows"></a>
         </td>
       </tr>
     </table>
