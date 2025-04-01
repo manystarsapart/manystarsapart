@@ -13,8 +13,8 @@
 <h1 style="text-align: center;">About</h1>
 
 <ul>
-    <li>💬 <b>Who am I?</b>: Aspiring web developer intending to explore many more fields.</li>
-    <li>🔭 <b>Now Coding</b>: <a href="https://github.com/manystarsapart/skysynth">SkySynth</a> – TypeScript-powered Sky:CoTL music player that allows for more degree of freedom than the game itself. Features a dual keyboard, accidentals and more.</li>
+    <li>💬 <b>Who am I</b>: Aspiring web developer intending to explore many more fields.</li>
+    <li>🔭 <b>Now Coding</b>: <a href="https://github.com/manystarsapart/skysynth">SkySynth</a> – TypeScript-powered Sky:CoTL music player that allows for more degree of freedom in music expression than the game itself. Features a dual keyboard, accidentals, octave changes and more.</li>
     <li>
     ✨ <b>Passions</b>: 
       <ul>
