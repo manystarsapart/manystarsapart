@@ -57,6 +57,9 @@
           <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></a>
           <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"></a>
           <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="vite"></a>
+          <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte"></a>
+          <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/SvelteKit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="sveltekit"></a>
+          <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=fff" alt="three.js"></a>
         </td>
       </tr>
       <!-- Tools -->
@@ -64,10 +67,14 @@
         <td style="text-align: center;"><b>Tools</b></td>
         <td>
           <a href="https://git-scm.com/ "><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="git"></a>
+          <a href="https://www.mozilla.org/en-GB/firefox/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="firefox"></a>          
           <a href="https://duckduckgo.com/"><img src="https://img.shields.io/badge/DuckDuckGo-FF5722?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="duckduckgo"></a>
           <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME%20Terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=fff" alt="gnome terminal"></a>
           <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff" alt="npm"></a>
+          <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=fff" alt="canva"></a>      
           <a href="https://brew.sh/"><img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=fff" alt="homebrew"></a>
+          <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=fff" alt="vercel"></a>
+          <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=fff" alt="render"></a> 
         </td>
       </tr>
       <!-- OS -->
