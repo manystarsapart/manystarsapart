@@ -14,11 +14,16 @@
 
 <ul>
     <li>💬 <b>Who am I</b>: Aspiring web developer intending to explore many more fields.</li>
-    <li>🔭 <b>Now Coding</b>: <a href="https://github.com/manystarsapart/skysynth">SkySynth</a> – TypeScript-powered Sky:CoTL music player that allows for more degree of freedom in music expression than the game itself. Features a dual keyboard, accidentals, octave changes and more.</li>
+    <li>🔭 <b>Now Coding</b>: 
+    <ul>
+      <li><a href="https://github.com/manystarsapart/skysynth">SkySynth</a> – TypeScript-powered Sky:CoTL music player that allows for more degree of freedom in music expression than the game itself. Features a dual keyboard, accidentals, octave changes and more.</li>
+      <li><a href="https://github.com/manystarsapart/misc">Misc</a> – Miscellaneous mini-projects I sometimes do on a whim. Mostly bash scripts to give myself minor QoL improvements.</li>
+    </ul>  
+    </li>
     <li>
     ✨ <b>Passions</b>: 
       <ul>
-        <li>Sky: CoTL Music</li>
+        <li>Music (esp. in Sky: CoTL)</li>
         <li>Linguistics: Phonetics</li>
         <li>Robotics & Electrical Tinkering</li>
         <li>Video Production</li>
@@ -47,6 +52,7 @@
           <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
           <a href="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"></a>
           <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></a>
+          <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"></a>
         </td>
       </tr>
       <!-- Frameworks & Libraries -->
